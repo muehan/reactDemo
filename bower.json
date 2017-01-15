@@ -1,0 +1,21 @@
+{
+    "name": "reactdemo",
+    "homepage": "https://github.com/muehan/reactDemo",
+    "authors": [
+        "andre <tdc@gmx.ch>"
+    ],
+    "description": "",
+    "main": "",
+    "license": "MIT",
+    "private": true,
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests"
+    ],
+    "dependencies": {
+        "react": "^15.4.2"
+    }
+}
